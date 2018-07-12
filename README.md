@@ -3,9 +3,9 @@ This script grabs a url from a kaymbu image sharing email (from gmail), visits t
 
 
 KAYMBU image downloader by myYearOfCode
-https://github.com/myYearOfCode/kaymbu_image_downloader
-Based off of "Reading GMAIL using Python" - Abhishek Chhibber
 
+Based off of "Reading GMAIL using Python" - Abhishek Chhibber
+https://github.com/abhishekchhibber/Gmail-Api-through-Python
 
 
 This script does the following:
