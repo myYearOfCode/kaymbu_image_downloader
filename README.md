@@ -28,6 +28,6 @@ This script could do this in the future:
 Before running this script, the user should get the authentication by following 
 the link: https://developers.google.com/gmail/api/quickstart/python
 Also, client_secret.json should be saved in the same directory as this file.
-Lastly, the preferences.json file needs to be filled out with your 'search_term'
+Lastly, the config.json file needs to be filled out with your 'search_term'
 and 'save_dir' values
 
